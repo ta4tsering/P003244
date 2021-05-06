@@ -1,0 +1,157 @@
+id: P003244
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W21809
+  title: གསུང་འབུམ། རབ་གསལ་ཟླ་བ
+  author: ''
+  volumes:
+    f3bb510563784e20a3ceaf5b0a4a6925:
+      image_group_id: I1831
+      title: ''
+      volume_number: 1
+      total_pages: 637
+      base_file: v001.txt
+    36b8773e78df40bab84ff6af36e8966c:
+      image_group_id: I1832
+      title: ''
+      volume_number: 2
+      total_pages: 573
+      base_file: v002.txt
+    d6387a9fe7c34fe692b8245a1721ac84:
+      image_group_id: I1833
+      title: ''
+      volume_number: 3
+      total_pages: 629
+      base_file: v003.txt
+    3ce674d3bdca4ff5bd5d6d7cbabb9a3b:
+      image_group_id: I1834
+      title: ''
+      volume_number: 4
+      total_pages: 661
+      base_file: v004.txt
+    28b47f64593e4900915b488e5c587508:
+      image_group_id: I1835
+      title: ''
+      volume_number: 5
+      total_pages: 655
+      base_file: v005.txt
+    f9ee12dc0f4d4fd6b1479f6e69994013:
+      image_group_id: I1836
+      title: ''
+      volume_number: 6
+      total_pages: 635
+      base_file: v006.txt
+    9a1fa6114cb84fc7ba07d5eba5c16137:
+      image_group_id: I1837
+      title: ''
+      volume_number: 7
+      total_pages: 599
+      base_file: v007.txt
+    20efe1c2513b466d80c39fea63fd11b2:
+      image_group_id: I1838
+      title: ''
+      volume_number: 8
+      total_pages: 617
+      base_file: v008.txt
+    d770ac54a84049d5b1fc02e79f6036f3:
+      image_group_id: I1839
+      title: ''
+      volume_number: 9
+      total_pages: 633
+      base_file: v009.txt
+    a6c3871bd62f4b7c92ab367350577544:
+      image_group_id: I1840
+      title: ''
+      volume_number: 10
+      total_pages: 679
+      base_file: v010.txt
+    185c38ab4d994d6cbe6dd6f63f86e6ac:
+      image_group_id: I1841
+      title: ''
+      volume_number: 11
+      total_pages: 691
+      base_file: v011.txt
+    2860893f956741e5bdb2c1c9d5ea6778:
+      image_group_id: I1842
+      title: ''
+      volume_number: 12
+      total_pages: 677
+      base_file: v012.txt
+    2857f9579031414e867ded2beb288dd6:
+      image_group_id: I1843
+      title: ''
+      volume_number: 13
+      total_pages: 715
+      base_file: v013.txt
+    73407cb974c9425eb9e692117e20848f:
+      image_group_id: I1844
+      title: ''
+      volume_number: 14
+      total_pages: 689
+      base_file: v014.txt
+    fedc2d0c35a94ce1917f9fdf70ac8b4e:
+      image_group_id: I1845
+      title: ''
+      volume_number: 15
+      total_pages: 703
+      base_file: v015.txt
+    caff502d467d41b1b681cd03b522d2a9:
+      image_group_id: I1846
+      title: ''
+      volume_number: 16
+      total_pages: 724
+      base_file: v016.txt
+    5607b0c845d6461a9f95eb4dbbc7fc2b:
+      image_group_id: I1847
+      title: ''
+      volume_number: 17
+      total_pages: 597
+      base_file: v017.txt
+    176c8baae99441449e17771706b432eb:
+      image_group_id: I1848
+      title: ''
+      volume_number: 18
+      total_pages: 635
+      base_file: v018.txt
+    bb3b6edce0454043ae9d443b59a639bd:
+      image_group_id: I1849
+      title: ''
+      volume_number: 19
+      total_pages: 635
+      base_file: v019.txt
+    692a0f8c4ae9497f925f0e68220dce56:
+      image_group_id: I1850
+      title: ''
+      volume_number: 20
+      total_pages: 515
+      base_file: v020.txt
+    bc4327d5fc9f4cddaabdf243d427c40d:
+      image_group_id: I1851
+      title: ''
+      volume_number: 21
+      total_pages: 621
+      base_file: v021.txt
+    d3c72a37b7e24c5aa333c83575c4a56f:
+      image_group_id: I1852
+      title: ''
+      volume_number: 22
+      total_pages: 637
+      base_file: v022.txt
+    0e85fbd44c48449b9c0438b9e75c01eb:
+      image_group_id: I1853
+      title: ''
+      volume_number: 23
+      total_pages: 619
+      base_file: v023.txt
+    b179e5bae7a64078aad28524b4f753d1:
+      image_group_id: I1854
+      title: ''
+      volume_number: 24
+      total_pages: 653
+      base_file: v024.txt
+    3e3824f8d91d419bb929734f60c90373:
+      image_group_id: I1855
+      title: ''
+      volume_number: 25
+      total_pages: 617
+      base_file: v025.txt
